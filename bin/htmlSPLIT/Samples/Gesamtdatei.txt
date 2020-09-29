@@ -1,0 +1,2349 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Johann Burkardt Amendt">
+<title>Johann Burkardt Amendt</title><!-- Militaerangehoeriger-ID: ma0000001 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Johann Burkardt</span>
+ <span class="MaNachname">Amendt</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Johann Burkardt <span class="Nachname">Amendt</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>16.05.1691 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Maria Barbara</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Martin <span class="Nachname">Spohn</span>, Durlachisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Maria Margaretha</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Burkardt <span class="Nachname">Amendt</span>, Lieutenant, Nachname schlecht zu lesen, evtl. andere Bedeutung</div>
+  <div>Johann Ulrich <span class="Nachname">Walker</span>, Caput des Armes</div>
+  <div>Anna Maria <span class="Nachname">Sander</span>, als "Feldschererin" bezeichnet, wahrscheinlich Ehefrau des Feldscherers</div>
+  <div>Barbara <span class="Nachname">Ulrich</span>, als "Gefreytin" bezeichnet, wahrscheinlich Ehefrau eines Gefreiten</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 48r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/e2a4306549/" target="blank">http://www.archion.de/p/e2a4306549/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000002</td></tr>
+ <tr><td>Erfassungsdatum</td><td>11.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000001.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000001">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Christoph Arnold">
+<title>Christoph Arnold</title><!-- Militaerangehoeriger-ID: ma0000002 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Christoph</span>
+ <span class="MaNachname">Arnold</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Christoph <span class="Nachname">Arnold</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>12.09.1696 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>12.09.1696 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Maria, "Hurenkind"</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Christoph <span class="Nachname">Arnold</span>, Soldat, von der Mutter als Vater des Kindes angegeben</td></tr>
+ <tr><td>Mutter</td><td>Katharina <span class="Nachname">Heinzelmann</span></td></tr>
+ <tr><td>Großvater Mutterseite</td>Hans <span class="Nachname">Heinzelmann</span> in Reinerzau (Alpirsbach, FDS)</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Jakob <span class="Nachname">Heinzelmann</span>, Bäcker</div>
+  <div>Hans Jerg <span class="Nachname">Gigi</span>, Bäcker</div>
+  <div>Maria <span class="Nachname">Schiec...</span>, Nachname schwer zu lesen, Magd von Johann Christoph <span class="Nachname">Hegel</span>, Pfarrer in Alpirsbach (Alpirsbach, FDS)</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 63r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/2731b111f6/" target="blank">http://www.archion.de/p/2731b111f6/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000014</td></tr>
+ <tr><td>Erfassungsdatum</td><td>21.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000002.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000002">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Johann Jakob Auter">
+<title>Johann Jakob Auter</title><!-- Militaerangehoeriger-ID: ma0000003 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Johann Jakob</span>
+ <span class="MaNachname">Auter</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Johann Jakob <span class="Nachname">Auter</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>09.03.1690 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Adelheid, posthuma</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Andreas <span class="Nachname">Schönberger</span>, verstorben, Decurio Centurionis, Regiment zu Fuß unter dem kommandierenden General ("Generalis Praefecti") Friedrich Karl von Württemberg-Winnental, "Decurio Centurionis Dni a Plaatern"</td></tr>
+ <tr><td>Mutter</td><td>Maria Margaretha <span class="Nachname">Kaiser</span>, aus Schweinfurt ("Suinfurtensis")</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Jakob <span class="Nachname">Römer</span>, Quartiermeister, Kronfeldisches Regiment zu Pferd, erster Vorname zuerst Philipp, aber durchgestrichen</div>
+  <div>Johann Jakob <span class="Nachname">Auter</span>, Decurio</div>
+  <div>Adelheid, Ehefrau von Fraucisco <span class="Nachname">Grünbeutel</span>, Fähnrich, Kronfeldisches Regiment zu Pferd</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/b03e6e046b/" target="blank">http://www.archion.de/p/b03e6e046b/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000020</td></tr>
+ <tr><td>Erfassungsdatum</td><td>22.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000003.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000003">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Hans Bernhardt Baur">
+<title>Hans Bernhardt Baur</title><!-- Militaerangehoeriger-ID: ma0000004 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Hans Bernhardt</span>
+ <span class="MaNachname">Baur</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Hans Bernhardt <span class="Nachname">Baur</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>08.12.1695 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>08.12.1695 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Christina, unehelich</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Bernhardt <span class="Nachname">Baur</span>, Soldat, Leibkompanie unter Obristwachtmeister Schilling, Durlachisches Regiment, von der Mutter als Vater des Kindes angegeben</td></tr>
+ <tr><td>Mutter</td><td>Ursula <span class="Nachname">Schwab</span></td></tr>
+ <tr><td>Großvater Mutterseite</td>Michael <span class="Nachname">Schwab</span></td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Matthäus <span class="Nachname">Schäffer</span> auf dem Grezenbühl in Ehlenbogen (Alpirsbach, FDS)</div>
+  <div>Friedrich <span class="Nachname">Berler</span>, Balthas Berlers lediger Sohn</div>
+  <div>Magdalena, Ehefrau von Jakob <span class="Nachname">Scholderer</span></div>
+ </td></tr>
+ <tr><td>Sonstiges</td><td>der Vater des Kindes "bekannt sich auch darzu krafft seinen an sie [der Mutter] abgegebenen Brieffen"</td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 59v</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/48396f6b06/" target="blank">http://www.archion.de/p/48396f6b06/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000012</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000004.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000004">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Johann Christoph Bauz von Oedern">
+<title>Johann Christoph Bauz von Oedern</title><!-- Militaerangehoeriger-ID: ma0000005 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Johann Christoph</span>
+ <span class="MaNachname">Bauz von Oedern</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Johann Christoph <span class="Nachname">Bauz von Oedern</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>15.04.1693 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johann Martin</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Johann Martin <span class="Nachname">Bitsch</span>, Quartiermeister, Fourier</td></tr>
+ <tr><td>Mutter</td><td>Ursula</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Matthäus <span class="Nachname">Faulhaber</span>, Centurio, Schwäbisches Kreisregiment</div>
+  <div>Johann Christoph <span class="Nachname">Bauz von Oedern</span>, Fähnrich, Schwäbisches Kreisregiment</div>
+  <div>Johann Adam <span class="Nachname">Berten</span>, Lieutenant, Schwäbisches Kreisregiment, er vertritt den vorigen Paten (oder wird von ihm vertreten?)</div>
+  <div>Barbara, Ehefrau von Johann Adam <span class="Nachname">Berten</span>, Lieutenant, Schwäbisches Kreisregiment</div>
+  <div>Anna Maria, Ehefrau von Johann Andreas <span class="Nachname">Stotelin</span>, Kaufmann</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/352d3cfdf4/" target="blank">http://www.archion.de/p/352d3cfdf4/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000027</td></tr>
+ <tr><td>Erfassungsdatum</td><td>23.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000005.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000005">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Martin Beck">
+<title>Martin Beck</title><!-- Militaerangehoeriger-ID: ma0000006 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Martin</span>
+ <span class="MaNachname">Beck</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Martin <span class="Nachname">Beck</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>12.05.1692 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Maria</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Martin <span class="Nachname">Beck</span>, Korporal, Württembergisches Rothisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Katharina</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Wilhelm Christian von <span class="Nachname">Reischach</span>, Fähnrich</div>
+  <div>Hans Georg <span class="Nachname">Scherer</span>, Feldscherer in Sulz am Neckar (Sulz am Neckar, RW), "von Sulz"</div>
+  <div>N.N., Ehefrau von Jakob <span class="Nachname">Luz</span></div>
+  <div>Lucia, Ehefrau von Johannes <span class="Nachname">Kröz</span></div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 50r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/4b505d6baa/" target="blank">http://www.archion.de/p/4b505d6baa/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000004</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000006.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000006">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Ludwig Karle Benikhaus">
+<title>Ludwig Karle Benikhaus</title><!-- Militaerangehoeriger-ID: ma0000007 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Ludwig Karle</span>
+ <span class="MaNachname">Benikhaus</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Ludwig Karle <span class="Nachname">Benikhaus</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>06.11.1692 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>07.11.1692 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Dionysius <span class="Nachname">Stock</span>, katholisch, Obristlieutenant Rinckisches Fürstenbergisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Sibylla, katholisch</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Ludwig Karle <span class="Nachname">Benikhaus</span>, Fähnrich, Obristlieutenant Rinckisches Fürstenbergisches Regiment</div>
+  <div>Abraham <span class="Nachname">Vogelsach</span>, Feldscherer, Obristlieutenant Rinckisches Fürstenbergisches Regiment</div>
+  <div>Anna Maria <span class="Nachname">Rottlauff</span>, Angehörige des Obristlieutenant Rinckischen Fürstenbergischen Regiments</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 51r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/956d2ea1e1/" target="blank">http://www.archion.de/p/956d2ea1e1/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000005</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000007.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000007">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Johann Adam Berten">
+<title>Johann Adam Berten</title><!-- Militaerangehoeriger-ID: ma0000008 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Johann Adam</span>
+ <span class="MaNachname">Berten</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Johann Adam <span class="Nachname">Berten</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>15.04.1693 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johann Martin</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Johann Martin <span class="Nachname">Bitsch</span>, Quartiermeister, Fourier</td></tr>
+ <tr><td>Mutter</td><td>Ursula</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Matthäus <span class="Nachname">Faulhaber</span>, Centurio, Schwäbisches Kreisregiment</div>
+  <div>Johann Christoph <span class="Nachname">Bauz von Oedern</span>, Fähnrich, Schwäbisches Kreisregiment</div>
+  <div>Johann Adam <span class="Nachname">Berten</span>, Lieutenant, Schwäbisches Kreisregiment, er vertritt den vorigen Paten (oder wird von ihm vertreten?)</div>
+  <div>Barbara, Ehefrau von Johann Adam <span class="Nachname">Berten</span>, Lieutenant, Schwäbisches Kreisregiment</div>
+  <div>Anna Maria, Ehefrau von Johann Andreas <span class="Nachname">Stotelin</span>, Kaufmann</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/352d3cfdf4/" target="blank">http://www.archion.de/p/352d3cfdf4/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000027</td></tr>
+ <tr><td>Erfassungsdatum</td><td>23.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000008.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000008">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Marx Bez">
+<title>Marx Bez</title><!-- Militaerangehoeriger-ID: ma0000009 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Marx</span>
+ <span class="MaNachname">Bez</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Marx <span class="Nachname">Bez</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>29.10.1695 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>29.10.1695 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Johanna</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Marx <span class="Nachname">Bez</span>, Fourierschütze, Leipkompanie, Durlachisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Anna Maria</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Heinrich Günther <span class="Nachname">Göcking</span>, Capitain-Lieutenant, Leipkompanie, Durlachisches Regiment, abwesend</div>
+  <div>Felix Christian  <span class="Nachname">Binder</span>, Fourier, Leipkompanie, Durlachisches Regiment, vertritt den ersten Paten</div>
+  <div>Hans Georg <span class="Nachname">Höhn</span>, Bäcker in Baiersbronn (Baiersbronn, FDS)</div>
+  <div>Anna Agnes <span class="Nachname">Armbruster</span>, Tochter von alt Johann <span class="Nachname">Armbruster</span></div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 59r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/37ddd29bbb/" target="blank">http://www.archion.de/p/37ddd29bbb/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000010</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000009.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000009">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Kaspar Bezenauer">
+<title>Kaspar Bezenauer</title><!-- Militaerangehoeriger-ID: ma0000010 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Kaspar</span>
+ <span class="MaNachname">Bezenauer</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Kaspar <span class="Nachname">Bezenauer</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>27.11.1695 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>27.11.1695 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Maria, unehelich</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Kaspar <span class="Nachname">Bezenauer</span>, Soldat, unter Obristwachtmeister Schilling, von der Mutter als Vater des Kindes angegeben</td></tr>
+ <tr><td>Mutter</td><td>Barbara <span class="Nachname">Haug</span></td></tr>
+ <tr><td>Großmutter Mutterseite</td>Magdalena <span class="Nachname">Haug</span></td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Michael <span class="Nachname">Weisser</span>, Amtschreiber</div>
+  <div>Hans Martin <span class="Nachname">Heinzeler</span>, ledig</div>
+  <div>Sabina <span class="Nachname">Hezel</span>, ledig</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 59v</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/48396f6b06/" target="blank">http://www.archion.de/p/48396f6b06/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000011</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000010.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000010">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Felix Christian Binder">
+<title>Felix Christian Binder</title><!-- Militaerangehoeriger-ID: ma0000011 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Felix Christian</span>
+ <span class="MaNachname">Binder</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Felix Christian <span class="Nachname">Binder</span> (Bender), in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet. </div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>29.10.1695 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>29.10.1695 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Johanna</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Marx <span class="Nachname">Bez</span>, Fourierschütze, Leipkompanie, Durlachisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Anna Maria</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Heinrich Günther <span class="Nachname">Göcking</span>, Capitain-Lieutenant, Leipkompanie, Durlachisches Regiment, abwesend</div>
+  <div>Felix Christian  <span class="Nachname">Binder</span>, Fourier, Leipkompanie, Durlachisches Regiment, vertritt den ersten Paten</div>
+  <div>Hans Georg <span class="Nachname">Höhn</span>, Bäcker in Baiersbronn (Baiersbronn, FDS)</div>
+  <div>Anna Agnes <span class="Nachname">Armbruster</span>, Tochter von alt Johann <span class="Nachname">Armbruster</span></div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 59r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/37ddd29bbb/" target="blank">http://www.archion.de/p/37ddd29bbb/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000010</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000011.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000011">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Johann Martin Bitsch">
+<title>Johann Martin Bitsch</title><!-- Militaerangehoeriger-ID: ma0000012 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Johann Martin</span>
+ <span class="MaNachname">Bitsch</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Johann Martin <span class="Nachname">Bitsch</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>15.04.1693 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johann Martin</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Johann Martin <span class="Nachname">Bitsch</span>, Quartiermeister, Fourier</td></tr>
+ <tr><td>Mutter</td><td>Ursula</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Matthäus <span class="Nachname">Faulhaber</span>, Centurio, Schwäbisches Kreisregiment</div>
+  <div>Johann Christoph <span class="Nachname">Bauz von Oedern</span>, Fähnrich, Schwäbisches Kreisregiment</div>
+  <div>Johann Adam <span class="Nachname">Berten</span>, Lieutenant, Schwäbisches Kreisregiment, er vertritt den vorigen Paten (oder wird von ihm vertreten?)</div>
+  <div>Barbara, Ehefrau von Johann Adam <span class="Nachname">Berten</span>, Lieutenant, Schwäbisches Kreisregiment</div>
+  <div>Anna Maria, Ehefrau von Johann Andreas <span class="Nachname">Stotelin</span>, Kaufmann</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/352d3cfdf4/" target="blank">http://www.archion.de/p/352d3cfdf4/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000027</td></tr>
+ <tr><td>Erfassungsdatum</td><td>23.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000012.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000012">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Rudolph Body">
+<title>Rudolph Body</title><!-- Militaerangehoeriger-ID: ma0000013 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Rudolph</span>
+ <span class="MaNachname">Body</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Rudolph <span class="Nachname">Body</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>26.12.1689 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johann Karl</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Johann Georg <span class="Nachname">Weckerlin</span>, Decurio, unter General Graf von Kronsfeld</td></tr>
+ <tr><td>Mutter</td><td>Anna</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johannes <span class="Nachname">Oberlin</span>, Decurio, unter General Graf von Kronsfeld, abwesend</div>
+  <div>Rudolph <span class="Nachname">Body</span>, Trompeter</div>
+  <div>Maria Elisabetha, Ehefrau von Rudolph <span class="Nachname">Body</span>, Trompeter</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/2aea38c82c/" target="blank">http://www.archion.de/p/2aea38c82c/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000019</td></tr>
+ <tr><td>Erfassungsdatum</td><td>22.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000013.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000013">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Hans Breisacher">
+<title>Hans Breisacher</title><!-- Militaerangehoeriger-ID: ma0000014 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Hans</span>
+ <span class="MaNachname">Breisacher</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Hans <span class="Nachname">Breisacher</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>25.10.1697 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>25.10.1697 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Barbara</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans <span class="Nachname">Breisacher</span>, Soldat, unter Hauptmann Lampous</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Wolfgang <span class="Nachname">Diez</span>, Amtmann, abwesend</div>
+  <div>Michael <span class="Nachname">Schnell</span>, Vikar, vertritt den ersten Paten</div>
+  <div>Hans Jakob <span class="Nachname">Armbruster</span>, des Stabvogtes Johann Armbruster lediger Sohn</div>
+  <div>Sabina, Ehefrau von Jakob <span class="Nachname">Hezel</span></div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 67r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/316631558d/" target="blank">http://www.archion.de/p/316631558d/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000016</td></tr>
+ <tr><td>Erfassungsdatum</td><td>21.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000014.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000014">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Johann Matthäus Faulhaber">
+<title>Johann Matthäus Faulhaber</title><!-- Militaerangehoeriger-ID: ma0000015 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Johann Matthäus</span>
+ <span class="MaNachname">Faulhaber</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Johann Matthäus <span class="Nachname">Faulhaber</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>15.04.1693 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johann Martin</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Johann Martin <span class="Nachname">Bitsch</span>, Quartiermeister, Fourier</td></tr>
+ <tr><td>Mutter</td><td>Ursula</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Matthäus <span class="Nachname">Faulhaber</span>, Centurio, Schwäbisches Kreisregiment</div>
+  <div>Johann Christoph <span class="Nachname">Bauz von Oedern</span>, Fähnrich, Schwäbisches Kreisregiment</div>
+  <div>Johann Adam <span class="Nachname">Berten</span>, Lieutenant, Schwäbisches Kreisregiment, er vertritt den vorigen Paten (oder wird von ihm vertreten?)</div>
+  <div>Barbara, Ehefrau von Johann Adam <span class="Nachname">Berten</span>, Lieutenant, Schwäbisches Kreisregiment</div>
+  <div>Anna Maria, Ehefrau von Johann Andreas <span class="Nachname">Stotelin</span>, Kaufmann</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/352d3cfdf4/" target="blank">http://www.archion.de/p/352d3cfdf4/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000027</td></tr>
+ <tr><td>Erfassungsdatum</td><td>23.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000015.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000015">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Jakob Feser">
+<title>Jakob Feser</title><!-- Militaerangehoeriger-ID: ma0000016 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Jakob</span>
+ <span class="MaNachname">Feser</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Jakob <span class="Nachname">Feser</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>20.01.1695 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>21.01.1695 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johannes Christian</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Vitus <span class="Nachname">Rauh</span>, Soldat, unter Obristwachtmeister Schilling</td></tr>
+ <tr><td>Mutter</td><td>Helena</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann <span class="Nachname">Armbruster</span>, Stabsvogt</div>
+  <div>Christian <span class="Nachname">Sander</span>, Feldscherer, unter Obristwachtmeister Schilling</div>
+  <div>N.N. <span class="Nachname">Weisser</span>, als "Amptschreiberin" bezeichnet, wahrscheinlich Ehefrau des Amtschreibers</div>
+  <div>Anna Maria, Ehefrau von Jakob <span class="Nachname">Feser</span>, Korporal</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 57r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/c25192f8b5/" target="blank">http://www.archion.de/p/c25192f8b5/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000009</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000016.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000016">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Matthäus Geiher">
+<title>Matthäus Geiher</title><!-- Militaerangehoeriger-ID: ma0000017 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Matthäus</span>
+ <span class="MaNachname">Geiher</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Matthäus <span class="Nachname">Geiher</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>15.09.1691 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Jakob</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Matthäus <span class="Nachname">Geiher</span>, Reiter, Kronfeldisches Regiment zu Pferd</td></tr>
+ <tr><td>Mutter</td><td>Dorothea</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Jakob <span class="Nachname">Gänslin</span>, Judex</div>
+  <div>Maria, Ehefrau von Martin <span class="Nachname">Lehr</span>, Villici</div>
+  <div>Barbara, Ehefrau von Johann Georg <span class="Nachname">Luz</span>, Metzger</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/2a02d47d50/" target="blank">http://www.archion.de/p/2a02d47d50/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000023</td></tr>
+ <tr><td>Erfassungsdatum</td><td>23.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>18.09.1692 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Maria Barbara</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Matthäus <span class="Nachname">Geiher</span>, Reiter, Kronfeldisches Regiment zu Pferd</td></tr>
+ <tr><td>Mutter</td><td>Dorothea</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Jakob <span class="Nachname">Gänslin</span>, Judex</div>
+  <div>Maria, Ehefrau von Martin <span class="Nachname">Löhr</span>, Hofmeier in Nagold (Nagold, CW)</div>
+  <div>Barbara, Ehefrau von Johann Georg <span class="Nachname">Luz</span>, Metzger</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/f6d618dbbb/" target="blank">http://www.archion.de/p/f6d618dbbb/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000025</td></tr>
+ <tr><td>Erfassungsdatum</td><td>23.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000017.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000017">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Heinrich Günther Göcking">
+<title>Heinrich Günther Göcking</title><!-- Militaerangehoeriger-ID: ma0000018 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Heinrich Günther</span>
+ <span class="MaNachname">Göcking</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Heinrich Günther <span class="Nachname">Göcking</span> (Gecking), in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>29.10.1695 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>29.10.1695 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Johanna</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Marx <span class="Nachname">Bez</span>, Fourierschütze, Leipkompanie, Durlachisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Anna Maria</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Heinrich Günther <span class="Nachname">Göcking</span>, Capitain-Lieutenant, Leipkompanie, Durlachisches Regiment, abwesend</div>
+  <div>Felix Christian  <span class="Nachname">Binder</span>, Fourier, Leipkompanie, Durlachisches Regiment, vertritt den ersten Paten</div>
+  <div>Hans Georg <span class="Nachname">Höhn</span>, Bäcker in Baiersbronn (Baiersbronn, FDS)</div>
+  <div>Anna Agnes <span class="Nachname">Armbruster</span>, Tochter von alt Johann <span class="Nachname">Armbruster</span></div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 59r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/37ddd29bbb/" target="blank">http://www.archion.de/p/37ddd29bbb/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000010</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000018.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000018">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Franz Grünbeutel">
+<title>Franz Grünbeutel</title><!-- Militaerangehoeriger-ID: ma0000019 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Franz</span>
+ <span class="MaNachname">Grünbeutel</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Franz <span class="Nachname">Grünbeutel</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>09.03.1690 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Adelheid, posthuma</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Andreas <span class="Nachname">Schönberger</span>, verstorben, Decurio Centurionis, Regiment zu Fuß unter dem kommandierenden General ("Generalis Praefecti") Friedrich Karl von Württemberg-Winnental, "Decurio Centurionis Dni a Plaatern"</td></tr>
+ <tr><td>Mutter</td><td>Maria Margaretha <span class="Nachname">Kaiser</span>, aus Schweinfurt ("Suinfurtensis")</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Jakob <span class="Nachname">Römer</span>, Quartiermeister, Kronfeldisches Regiment zu Pferd, erster Vorname zuerst Philipp, aber durchgestrichen</div>
+  <div>Johann Jakob <span class="Nachname">Auter</span>, Decurio</div>
+  <div>Adelheid, Ehefrau von Fraucisco <span class="Nachname">Grünbeutel</span>, Fähnrich, Kronfeldisches Regiment zu Pferd</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/b03e6e046b/" target="blank">http://www.archion.de/p/b03e6e046b/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000020</td></tr>
+ <tr><td>Erfassungsdatum</td><td>22.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000019.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000019">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Joseph Hägele">
+<title>Joseph Hägele</title><!-- Militaerangehoeriger-ID: ma0000020 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Joseph</span>
+ <span class="MaNachname">Hägele</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Joseph <span class="Nachname">Hägele</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>24.10.1697 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>25.10.1697 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Joseph</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Joseph <span class="Nachname">Hägele</span>, Soldat, unter Hauptmann Stürzle</td></tr>
+ <tr><td>Mutter</td><td>Veronika <span class="Nachname">Majer</span>, Dienstmagd bei Johann Mayer</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Michael <span class="Nachname">Nibel</span>, Biersieder</div>
+  <div>Jakob <span class="Nachname">Renk</span>, ledig</div>
+  <div>Maria <span class="Nachname">Benz</span>, ledig</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 67r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/316631558d/" target="blank">http://www.archion.de/p/316631558d/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000015</td></tr>
+ <tr><td>Erfassungsdatum</td><td>21.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000020.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000020">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Matthäus Hardinger">
+<title>Matthäus Hardinger</title><!-- Militaerangehoeriger-ID: ma0000021 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Matthäus</span>
+ <span class="MaNachname">Hardinger</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Matthäus <span class="Nachname">Hardinger</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>04.12.1694 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Katharina</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Jerg <span class="Nachname">Schneilen</span>, Korporal, unter Hauptmann von Stain</td></tr>
+ <tr><td>Mutter</td><td>Anna Katharina</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Matthäus <span class="Nachname">Hardinger</span>, Lieutenant</div>
+  <div>Johannes Heinrich <span class="Nachname">Mayer</span>, Feldscherer</div>
+  <div>Anna Maria, Ehefrau von Christian <span class="Nachname">Sander</span>, Feldscherer, Schillingische Kompanie</div>
+  <div>Maria, Ehefrau von Jakob <span class="Nachname">Scherer</span>, Vogt in Reutin (Alpirsbach, FDS)</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 56r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/5bb31e9b64/" target="blank">http://www.archion.de/p/5bb31e9b64/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000008</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000021.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000021">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Peter Hermann">
+<title>Peter Hermann</title><!-- Militaerangehoeriger-ID: ma0000022 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Peter</span>
+ <span class="MaNachname">Hermann</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Peter <span class="Nachname">Hermann</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>03.06.1691 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Peter</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Peter <span class="Nachname">Hermann</span>, Reiter, "von Wibelsburg, Berner Gebieths" (= Avenches, Kanton Waadt)</td></tr>
+ <tr><td>Mutter</td><td>Magdalena, Witwe des Johann Bertsch, verstorbenen Bauer in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Peter <span class="Nachname">Klein</span>, Strumpfstricker in Nagold (Nagold, CW)</div>
+  <div>Ursula <span class="Nachname">Bertsch</span>, Magd bei der Witwe Barbara Härder in Nagold (Nagold, CW)</div>
+ </td></tr>
+ <tr><td>Sonstiges</td><td>zu den Eltern: "welche miteinander sich ehelich versprochen, aber den elterlichen Consens nit erhalten haben"</td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/0ce119b345/" target="blank">http://www.archion.de/p/0ce119b345/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000021</td></tr>
+ <tr><td>Erfassungsdatum</td><td>23.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000022.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000022">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Gerson Kain">
+<title>Gerson Kain</title><!-- Militaerangehoeriger-ID: ma0000023 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Gerson</span>
+ <span class="MaNachname">Kain</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Gerson <span class="Nachname">Kain</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>21.08.1698 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>21.08.1698 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Hans Wilhelm</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Gerson <span class="Nachname">Kain</span>, Soldat</td></tr>
+ <tr><td>Mutter</td><td>Elisabetha</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Jakob <span class="Nachname">Besler</span>, Traubenwirt</div>
+  <div>N.N. <span class="Nachname">Heermann</span>, Skribent, anstelle des folgenden Paten</div>
+  <div>Jakob <span class="Nachname">Armbruster</span>, des Stabvogtes Johann Armbruster lediger Sohn</div>
+  <div>Magdalena, Ehefrau von Jerg Jakob <span class="Nachname">Trautwein</span>, Scherer und Heiligenpfleger</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 70r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/1f9a49e768/" target="blank">http://www.archion.de/p/1f9a49e768/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000017</td></tr>
+ <tr><td>Erfassungsdatum</td><td>21.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>07.12.1699</td></tr>
+ <tr><td>Taufe</td><td>07.12.1699 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johann Jakob, von der Hebamme gähgetauft</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Gerson <span class="Nachname">Kain</span>, Soldat</td></tr>
+ <tr><td>Mutter</td><td>Elisabetha</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>N.N. <span class="Nachname">Besler</span>, Bürgermeister und Traubenwirt</div>
+  <div>Johann Jakob <span class="Nachname">Armbruster</span>, ledig</div>
+  <div>Magdalena <span class="Nachname">Trautwein</span>, Balbiererin </div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 73v</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/080989a82f/" target="blank">http://www.archion.de/p/080989a82f/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000018</td></tr>
+ <tr><td>Erfassungsdatum</td><td>21.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000023.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000023">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Johannes Heinrich Mayer">
+<title>Johannes Heinrich Mayer</title><!-- Militaerangehoeriger-ID: ma0000024 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Johannes Heinrich</span>
+ <span class="MaNachname">Mayer</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Johannes Heinrich <span class="Nachname">Mayer</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>04.12.1694 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Katharina</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Jerg <span class="Nachname">Schneilen</span>, Korporal, unter Hauptmann von Stain</td></tr>
+ <tr><td>Mutter</td><td>Anna Katharina</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Matthäus <span class="Nachname">Hardinger</span>, Lieutenant</div>
+  <div>Johannes Heinrich <span class="Nachname">Mayer</span>, Feldscherer</div>
+  <div>Anna Maria, Ehefrau von Christian <span class="Nachname">Sander</span>, Feldscherer, Schillingische Kompanie</div>
+  <div>Maria, Ehefrau von Jakob <span class="Nachname">Scherer</span>, Vogt in Reutin (Alpirsbach, FDS)</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 56r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/5bb31e9b64/" target="blank">http://www.archion.de/p/5bb31e9b64/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000008</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000024.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000024">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Jerg Müller">
+<title>Jerg Müller</title><!-- Militaerangehoeriger-ID: ma0000025 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Jerg</span>
+ <span class="MaNachname">Müller</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Jerg <span class="Nachname">Müller</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>"im Thorhäußle" in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>07.01.1694 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Hans Jakob</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Jerg <span class="Nachname">Müller</span>, Soldat, von der Mutter als Vater des Kindes angegeben</td></tr>
+ <tr><td>Mutter</td><td>Anna Maria <span class="Nachname">Finkbohner</span>, saß zum Zeitpunkt der Geburt im Torhaus in Gefangenschaft</td></tr>
+ <tr><td>Großvater Mutterseite</td>Jerg <span class="Nachname">Finkbohner</span> im Oberehlenbogen in Ehlenbogen (Alpirsbach, FDS)</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>N.N. <span class="Nachname">Schickardt</span>, Skribent in der Amtschreiberei</div>
+  <div>Jakob <span class="Nachname">Adrion</span>, Torwart</div>
+  <div>Sibylla, Ehefrau von Hans David <span class="Nachname">Schmid</span>, Oberreiter</div>
+ </td></tr>
+ <tr><td>Sonstiges</td><td>Der Eintrag enthält ca. 10 stark durchgestrichene und deshalb nicht lesbare Worte. Evtl. wurde erst ein anderer als Vater angegeben.</td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 54r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/2d786c7854/" target="blank">http://www.archion.de/p/2d786c7854/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000007</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000025.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000025">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Johannes Oberlin">
+<title>Johannes Oberlin</title><!-- Militaerangehoeriger-ID: ma0000026 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Johannes</span>
+ <span class="MaNachname">Oberlin</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Johannes <span class="Nachname">Oberlin</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>26.12.1689 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johann Karl</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Johann Georg <span class="Nachname">Weckerlin</span>, Decurio, unter General Graf von Kronsfeld</td></tr>
+ <tr><td>Mutter</td><td>Anna</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johannes <span class="Nachname">Oberlin</span>, Decurio, unter General Graf von Kronsfeld, abwesend</div>
+  <div>Rudolph <span class="Nachname">Body</span>, Trompeter</div>
+  <div>Maria Elisabetha, Ehefrau von Rudolph <span class="Nachname">Body</span>, Trompeter</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/2aea38c82c/" target="blank">http://www.archion.de/p/2aea38c82c/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000019</td></tr>
+ <tr><td>Erfassungsdatum</td><td>22.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000026.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000026">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Hans Jerg Pfeiffer">
+<title>Hans Jerg Pfeiffer</title><!-- Militaerangehoeriger-ID: ma0000027 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Hans Jerg</span>
+ <span class="MaNachname">Pfeiffer</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Hans Jerg <span class="Nachname">Pfeiffer</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>29.07.1693</td></tr>
+ <tr><td>Taufe</td><td>29.07.1693 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Magdalena, unehelich</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Jerg <span class="Nachname">Pfeiffer</span>, Soldat, Hornisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Elisabetha <span class="Nachname">Matth</span></td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Jakob <span class="Nachname">Besler</span>, Bäcker</div>
+  <div>Johann David <span class="Nachname">Schmid</span>, Klosteroberreiter</div>
+  <div>Anna Magdalena <span class="Nachname">Reinbold</span>, ledig</div>
+ </td></tr>
+ <tr><td>Sonstiges</td><td>Pfeiffer wurde von der Mutter als Vater des Kindes angegeben, "so aber, weil sie ein viertel Jahr ehend des Kinds gewesen, als er in dieses Revier kommen, der Vatter nicht sein kan"</td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 53r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/ab15bcda67/" target="blank">http://www.archion.de/p/ab15bcda67/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000006</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000027.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000027">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Vitus Rauh">
+<title>Vitus Rauh</title><!-- Militaerangehoeriger-ID: ma0000028 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Vitus</span>
+ <span class="MaNachname">Rauh</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Vitus <span class="Nachname">Rauh</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>20.01.1695 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>21.01.1695 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johannes Christian</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Vitus <span class="Nachname">Rauh</span>, Soldat, unter Obristwachtmeister Schilling</td></tr>
+ <tr><td>Mutter</td><td>Helena</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann <span class="Nachname">Armbruster</span>, Stabsvogt</div>
+  <div>Christian <span class="Nachname">Sander</span>, Feldscherer, unter Obristwachtmeister Schilling</div>
+  <div>N.N. <span class="Nachname">Weisser</span>, als "Amptschreiberin" bezeichnet, wahrscheinlich Ehefrau des Amtschreibers</div>
+  <div>Anna Maria, Ehefrau von Jakob <span class="Nachname">Feser</span>, Korporal</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 57r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/c25192f8b5/" target="blank">http://www.archion.de/p/c25192f8b5/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000009</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000028.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000028">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Wilhelm Christian von Reischach">
+<title>Wilhelm Christian von Reischach</title><!-- Militaerangehoeriger-ID: ma0000029 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Wilhelm Christian von</span>
+ <span class="MaNachname">Reischach</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Wilhelm Christian von <span class="Nachname">Reischach</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>12.05.1692 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Maria</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Martin <span class="Nachname">Beck</span>, Korporal, Württembergisches Rothisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Katharina</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Wilhelm Christian von <span class="Nachname">Reischach</span>, Fähnrich</div>
+  <div>Hans Georg <span class="Nachname">Scherer</span>, Feldscherer in Sulz am Neckar (Sulz am Neckar, RW), "von Sulz"</div>
+  <div>N.N., Ehefrau von Jakob <span class="Nachname">Luz</span></div>
+  <div>Lucia, Ehefrau von Johannes <span class="Nachname">Kröz</span></div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 50r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/4b505d6baa/" target="blank">http://www.archion.de/p/4b505d6baa/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000004</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000029.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000029">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Georg Riedel">
+<title>Georg Riedel</title><!-- Militaerangehoeriger-ID: ma0000030 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Georg</span>
+ <span class="MaNachname">Riedel</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Georg <span class="Nachname">Riedel</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>21.11.1690 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Maria Barbara</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Georg <span class="Nachname">Riedel</span>, Feldtrompeter, Obristwachtmeister Schenhen Kompanie</td></tr>
+ <tr><td>Mutter</td><td>Anna</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Christoph <span class="Nachname">Hegel</span>, Pfarrer in Alpirsbach (Alpirsbach, FDS)</div>
+  <div>Karle <span class="Nachname">Weisser</span>, Kammerdiener bei Obristwachtmeister Schenhen</div>
+  <div>Katharina Barbara, Ehefrau von Heinrich Wilhelm <span class="Nachname">Bardili</span>, Amtschreiber in Alpirsbach (Alpirsbach, FDS)</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 45v</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/5080e6304c/" target="blank">http://www.archion.de/p/5080e6304c/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000001</td></tr>
+ <tr><td>Erfassungsdatum</td><td>11.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000030.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000030">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Johann Jakob Römer">
+<title>Johann Jakob Römer</title><!-- Militaerangehoeriger-ID: ma0000031 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Johann Jakob</span>
+ <span class="MaNachname">Römer</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Johann Jakob <span class="Nachname">Römer</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>09.03.1690 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Adelheid, posthuma</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Andreas <span class="Nachname">Schönberger</span>, verstorben, Decurio Centurionis, Regiment zu Fuß unter dem kommandierenden General ("Generalis Praefecti") Friedrich Karl von Württemberg-Winnental, "Decurio Centurionis Dni a Plaatern"</td></tr>
+ <tr><td>Mutter</td><td>Maria Margaretha <span class="Nachname">Kaiser</span>, aus Schweinfurt ("Suinfurtensis")</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Jakob <span class="Nachname">Römer</span>, Quartiermeister, Kronfeldisches Regiment zu Pferd, erster Vorname zuerst Philipp, aber durchgestrichen</div>
+  <div>Johann Jakob <span class="Nachname">Auter</span>, Decurio</div>
+  <div>Adelheid, Ehefrau von Fraucisco <span class="Nachname">Grünbeutel</span>, Fähnrich, Kronfeldisches Regiment zu Pferd</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/b03e6e046b/" target="blank">http://www.archion.de/p/b03e6e046b/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000020</td></tr>
+ <tr><td>Erfassungsdatum</td><td>22.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000031.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000031">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Anna Maria Rottlauff">
+<title>Anna Maria Rottlauff</title><!-- Militaerangehoeriger-ID: ma0000032 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Anna Maria</span>
+ <span class="MaNachname">Rottlauff</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen eine Anna Maria <span class="Nachname">Rottlauff</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>06.11.1692 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>07.11.1692 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Dionysius <span class="Nachname">Stock</span>, katholisch, Obristlieutenant Rinckisches Fürstenbergisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Sibylla, katholisch</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Ludwig Karle <span class="Nachname">Benikhaus</span>, Fähnrich, Obristlieutenant Rinckisches Fürstenbergisches Regiment</div>
+  <div>Abraham <span class="Nachname">Vogelsach</span>, Feldscherer, Obristlieutenant Rinckisches Fürstenbergisches Regiment</div>
+  <div>Anna Maria <span class="Nachname">Rottlauff</span>, Angehörige des Obristlieutenant Rinckischen Fürstenbergischen Regiments</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 51r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/956d2ea1e1/" target="blank">http://www.archion.de/p/956d2ea1e1/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000005</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000032.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000032">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Michael Ruf">
+<title>Michael Ruf</title><!-- Militaerangehoeriger-ID: ma0000033 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Michael</span>
+ <span class="MaNachname">Ruf</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Michael <span class="Nachname">Ruf</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>19.12.1691 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Thomas, unehelich</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Michael <span class="Nachname">Ruf</span>, Soldat, Kronfeldisches Regiment zu Pferd, von der Mutter als Vater des Kindes angegeben</td></tr>
+ <tr><td>Mutter</td><td>Ursula <span class="Nachname">Schwab</span></td></tr>
+ <tr><td>Großvater Mutterseite</td>Michael <span class="Nachname">Schwab</span> in Ehlenbogen (Alpirsbach, FDS)</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Matthäus <span class="Nachname">Schäffer</span></div>
+  <div>Nikolaus <span class="Nachname">Armbruster</span>, ledig</div>
+  <div>Magdalena, Ehefrau von Hans Jakob <span class="Nachname">Scholderer</span></div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 49r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/6e62456766/" target="blank">http://www.archion.de/p/6e62456766/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000003</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000033.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000033">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Anna Maria Sander">
+<title>Anna Maria Sander</title><!-- Militaerangehoeriger-ID: ma0000034 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Anna Maria</span>
+ <span class="MaNachname">Sander</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen eine Anna Maria <span class="Nachname">Sander</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>16.05.1691 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Maria Barbara</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Martin <span class="Nachname">Spohn</span>, Durlachisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Maria Margaretha</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Burkardt <span class="Nachname">Amendt</span>, Lieutenant, Nachname schlecht zu lesen, evtl. andere Bedeutung</div>
+  <div>Johann Ulrich <span class="Nachname">Walker</span>, Caput des Armes</div>
+  <div>Anna Maria <span class="Nachname">Sander</span>, als "Feldschererin" bezeichnet, wahrscheinlich Ehefrau des Feldscherers</div>
+  <div>Barbara <span class="Nachname">Ulrich</span>, als "Gefreytin" bezeichnet, wahrscheinlich Ehefrau eines Gefreiten</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 48r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/e2a4306549/" target="blank">http://www.archion.de/p/e2a4306549/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000002</td></tr>
+ <tr><td>Erfassungsdatum</td><td>11.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000034.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000034">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Christian Sander">
+<title>Christian Sander</title><!-- Militaerangehoeriger-ID: ma0000035 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Christian</span>
+ <span class="MaNachname">Sander</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Christian <span class="Nachname">Sander</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>04.12.1694 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Katharina</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Jerg <span class="Nachname">Schneilen</span>, Korporal, unter Hauptmann von Stain</td></tr>
+ <tr><td>Mutter</td><td>Anna Katharina</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Matthäus <span class="Nachname">Hardinger</span>, Lieutenant</div>
+  <div>Johannes Heinrich <span class="Nachname">Mayer</span>, Feldscherer</div>
+  <div>Anna Maria, Ehefrau von Christian <span class="Nachname">Sander</span>, Feldscherer, Schillingische Kompanie</div>
+  <div>Maria, Ehefrau von Jakob <span class="Nachname">Scherer</span>, Vogt in Reutin (Alpirsbach, FDS)</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 56r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/5bb31e9b64/" target="blank">http://www.archion.de/p/5bb31e9b64/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000008</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>20.01.1695 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>21.01.1695 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johannes Christian</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Vitus <span class="Nachname">Rauh</span>, Soldat, unter Obristwachtmeister Schilling</td></tr>
+ <tr><td>Mutter</td><td>Helena</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann <span class="Nachname">Armbruster</span>, Stabsvogt</div>
+  <div>Christian <span class="Nachname">Sander</span>, Feldscherer, unter Obristwachtmeister Schilling</div>
+  <div>N.N. <span class="Nachname">Weisser</span>, als "Amptschreiberin" bezeichnet, wahrscheinlich Ehefrau des Amtschreibers</div>
+  <div>Anna Maria, Ehefrau von Jakob <span class="Nachname">Feser</span>, Korporal</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 57r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/c25192f8b5/" target="blank">http://www.archion.de/p/c25192f8b5/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000009</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000035.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000035">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Hans Georg Scherer">
+<title>Hans Georg Scherer</title><!-- Militaerangehoeriger-ID: ma0000036 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Hans Georg</span>
+ <span class="MaNachname">Scherer</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Hans Georg <span class="Nachname">Scherer</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>12.05.1692 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Maria</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Martin <span class="Nachname">Beck</span>, Korporal, Württembergisches Rothisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Katharina</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Wilhelm Christian von <span class="Nachname">Reischach</span>, Fähnrich</div>
+  <div>Hans Georg <span class="Nachname">Scherer</span>, Feldscherer in Sulz am Neckar (Sulz am Neckar, RW), "von Sulz"</div>
+  <div>N.N., Ehefrau von Jakob <span class="Nachname">Luz</span></div>
+  <div>Lucia, Ehefrau von Johannes <span class="Nachname">Kröz</span></div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 50r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/4b505d6baa/" target="blank">http://www.archion.de/p/4b505d6baa/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000004</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000036.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000036">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Hans Jakob Schmid">
+<title>Hans Jakob Schmid</title><!-- Militaerangehoeriger-ID: ma0000037 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Hans Jakob</span>
+ <span class="MaNachname">Schmid</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Hans Jakob <span class="Nachname">Schmid</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>30.08.1696 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>30.08.1696 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Barbara, unehelich</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Jakob <span class="Nachname">Schmid</span>, Soldat, von der Mutter als Vater des Kindes angegeben</td></tr>
+ <tr><td>Mutter</td><td>Anna <span class="Nachname">Ziegler</span></td></tr>
+ <tr><td>Großvater Mutterseite</td>Hans <span class="Nachname">Ziegler</span> in Loßburg (Loßburg, FDS)</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Jakob <span class="Nachname">Adrion</span>, Torwart</div>
+  <div>Hans Jerg <span class="Nachname">Gigi</span>, Bäcker</div>
+  <div>Sabina <span class="Nachname">Hezel</span>, ledig</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 63r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/2731b111f6/" target="blank">http://www.archion.de/p/2731b111f6/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000013</td></tr>
+ <tr><td>Erfassungsdatum</td><td>21.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000037.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000037">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Hans Jerg Schneilen">
+<title>Hans Jerg Schneilen</title><!-- Militaerangehoeriger-ID: ma0000038 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Hans Jerg</span>
+ <span class="MaNachname">Schneilen</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Hans Jerg <span class="Nachname">Schneilen</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>04.12.1694 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna Katharina</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Jerg <span class="Nachname">Schneilen</span>, Korporal, unter Hauptmann von Stain</td></tr>
+ <tr><td>Mutter</td><td>Anna Katharina</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Matthäus <span class="Nachname">Hardinger</span>, Lieutenant</div>
+  <div>Johannes Heinrich <span class="Nachname">Mayer</span>, Feldscherer</div>
+  <div>Anna Maria, Ehefrau von Christian <span class="Nachname">Sander</span>, Feldscherer, Schillingische Kompanie</div>
+  <div>Maria, Ehefrau von Jakob <span class="Nachname">Scherer</span>, Vogt in Reutin (Alpirsbach, FDS)</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 56r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/5bb31e9b64/" target="blank">http://www.archion.de/p/5bb31e9b64/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000008</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000038.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000038">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Andreas Schönberger">
+<title>Andreas Schönberger</title><!-- Militaerangehoeriger-ID: ma0000039 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Andreas</span>
+ <span class="MaNachname">Schönberger</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Andreas <span class="Nachname">Schönberger</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>09.03.1690 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Adelheid, posthuma</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Andreas <span class="Nachname">Schönberger</span>, verstorben, Decurio Centurionis, Regiment zu Fuß unter dem kommandierenden General ("Generalis Praefecti") Friedrich Karl von Württemberg-Winnental, "Decurio Centurionis Dni a Plaatern"</td></tr>
+ <tr><td>Mutter</td><td>Maria Margaretha <span class="Nachname">Kaiser</span>, aus Schweinfurt ("Suinfurtensis")</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Jakob <span class="Nachname">Römer</span>, Quartiermeister, Kronfeldisches Regiment zu Pferd, erster Vorname zuerst Philipp, aber durchgestrichen</div>
+  <div>Johann Jakob <span class="Nachname">Auter</span>, Decurio</div>
+  <div>Adelheid, Ehefrau von Fraucisco <span class="Nachname">Grünbeutel</span>, Fähnrich, Kronfeldisches Regiment zu Pferd</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/b03e6e046b/" target="blank">http://www.archion.de/p/b03e6e046b/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000020</td></tr>
+ <tr><td>Erfassungsdatum</td><td>22.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000039.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000039">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Venceslaus Silenzky">
+<title>Venceslaus Silenzky</title><!-- Militaerangehoeriger-ID: ma0000040 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Venceslaus</span>
+ <span class="MaNachname">Silenzky</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Venceslaus <span class="Nachname">Silenzky</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+Silenzky, Venceslaus (1683-1718)
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000040.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000040">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Hans Martin Spohn">
+<title>Hans Martin Spohn</title><!-- Militaerangehoeriger-ID: ma0000041 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Hans Martin</span>
+ <span class="MaNachname">Spohn</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Hans Martin <span class="Nachname">Spohn</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>16.05.1691 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Maria Barbara</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Martin <span class="Nachname">Spohn</span>, Durlachisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Maria Margaretha</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Burkardt <span class="Nachname">Amendt</span>, Lieutenant, Nachname schlecht zu lesen, evtl. andere Bedeutung</div>
+  <div>Johann Ulrich <span class="Nachname">Walker</span>, Caput des Armes</div>
+  <div>Anna Maria <span class="Nachname">Sander</span>, als "Feldschererin" bezeichnet, wahrscheinlich Ehefrau des Feldscherers</div>
+  <div>Barbara <span class="Nachname">Ulrich</span>, als "Gefreytin" bezeichnet, wahrscheinlich Ehefrau eines Gefreiten</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 48r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/e2a4306549/" target="blank">http://www.archion.de/p/e2a4306549/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000002</td></tr>
+ <tr><td>Erfassungsdatum</td><td>11.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000041.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000041">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Dionysius Stock">
+<title>Dionysius Stock</title><!-- Militaerangehoeriger-ID: ma0000042 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Dionysius</span>
+ <span class="MaNachname">Stock</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Dionysius <span class="Nachname">Stock</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>06.11.1692 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>07.11.1692 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Dionysius <span class="Nachname">Stock</span>, katholisch, Obristlieutenant Rinckisches Fürstenbergisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Sibylla, katholisch</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Ludwig Karle <span class="Nachname">Benikhaus</span>, Fähnrich, Obristlieutenant Rinckisches Fürstenbergisches Regiment</div>
+  <div>Abraham <span class="Nachname">Vogelsach</span>, Feldscherer, Obristlieutenant Rinckisches Fürstenbergisches Regiment</div>
+  <div>Anna Maria <span class="Nachname">Rottlauff</span>, Angehörige des Obristlieutenant Rinckischen Fürstenbergischen Regiments</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 51r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/956d2ea1e1/" target="blank">http://www.archion.de/p/956d2ea1e1/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000005</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000042.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000042">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Barbara Ulrich">
+<title>Barbara Ulrich</title><!-- Militaerangehoeriger-ID: ma0000043 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Barbara</span>
+ <span class="MaNachname">Ulrich</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen eine Barbara <span class="Nachname">Ulrich</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>16.05.1691 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Maria Barbara</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Hans Martin <span class="Nachname">Spohn</span>, Durlachisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Maria Margaretha</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Burkardt <span class="Nachname">Amendt</span>, Lieutenant, Nachname schlecht zu lesen, evtl. andere Bedeutung</div>
+  <div>Johann Ulrich <span class="Nachname">Walker</span>, Caput des Armes</div>
+  <div>Anna Maria <span class="Nachname">Sander</span>, als "Feldschererin" bezeichnet, wahrscheinlich Ehefrau des Feldscherers</div>
+  <div>Barbara <span class="Nachname">Ulrich</span>, als "Gefreytin" bezeichnet, wahrscheinlich Ehefrau eines Gefreiten</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 48r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/e2a4306549/" target="blank">http://www.archion.de/p/e2a4306549/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000002</td></tr>
+ <tr><td>Erfassungsdatum</td><td>11.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000043.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000043">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Abraham Vogelsach">
+<title>Abraham Vogelsach</title><!-- Militaerangehoeriger-ID: ma0000044 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Abraham</span>
+ <span class="MaNachname">Vogelsach</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Abraham <span class="Nachname">Vogelsach</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Geburt</td><td>06.11.1692 in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Taufe</td><td>07.11.1692 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Anna</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Dionysius <span class="Nachname">Stock</span>, katholisch, Obristlieutenant Rinckisches Fürstenbergisches Regiment</td></tr>
+ <tr><td>Mutter</td><td>Sibylla, katholisch</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Ludwig Karle <span class="Nachname">Benikhaus</span>, Fähnrich, Obristlieutenant Rinckisches Fürstenbergisches Regiment</div>
+  <div>Abraham <span class="Nachname">Vogelsach</span>, Feldscherer, Obristlieutenant Rinckisches Fürstenbergisches Regiment</div>
+  <div>Anna Maria <span class="Nachname">Rottlauff</span>, Angehörige des Obristlieutenant Rinckischen Fürstenbergischen Regiments</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 51r</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/956d2ea1e1/" target="blank">http://www.archion.de/p/956d2ea1e1/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000005</td></tr>
+ <tr><td>Erfassungsdatum</td><td>18.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000044.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000044">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Johann Georg Weckerlin">
+<title>Johann Georg Weckerlin</title><!-- Militaerangehoeriger-ID: ma0000045 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Johann Georg</span>
+ <span class="MaNachname">Weckerlin</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Johann Georg <span class="Nachname">Weckerlin</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>26.12.1689 evangelisch in Nagold (Nagold, CW)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Johann Karl</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Johann Georg <span class="Nachname">Weckerlin</span>, Decurio, unter General Graf von Kronsfeld</td></tr>
+ <tr><td>Mutter</td><td>Anna</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johannes <span class="Nachname">Oberlin</span>, Decurio, unter General Graf von Kronsfeld, abwesend</div>
+  <div>Rudolph <span class="Nachname">Body</span>, Trompeter</div>
+  <div>Maria Elisabetha, Ehefrau von Rudolph <span class="Nachname">Body</span>, Trompeter</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Nagold [S], Ta 1628-1735, oSz</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/2aea38c82c/" target="blank">http://www.archion.de/p/2aea38c82c/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000019</td></tr>
+ <tr><td>Erfassungsdatum</td><td>22.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000045.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000045">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<!-- Diese Datei ist Teil der Webseite www.uwe-heizmann.de -->
+<!-- Beachten Sie die Hinweise im Impressum -->
+<meta http-equiv="expires" content="2635200">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="../css/allgemein.css">
+<link rel="stylesheet" type="text/css" href="../css/militaer.css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script src="../js/aktuelles_datum.js" type="text/javascript"></script>
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 month">
+<meta name="author" content="Uwe Heizmann">
+<meta name="date" content="2020-09-25">
+<meta name="keywords" content="Genealogie, Karle Weisser">
+<title>Karle Weisser</title><!-- Militaerangehoeriger-ID: ma0000046 -->
+</head><body>
+<div id="grundrahmen2">
+<div id="inhalt">
+<div class="MaName">
+ <span class="MaVorname">Karle</span>
+ <span class="MaNachname">Weisser</span>
+</div>
+<div class="vorbemerk">Im Folgenden sind alle bisher im Zeitraum 1683-1718 gefundenen Einträge aufgeführt, in denen ein Karle <span class="Nachname">Weisser</span>, in dieser oder in ähnlicher Namensvariante, genannt ist. Dies bedeutet jedoch nicht, dass diese Personen zwangsläufig dieselbe Person sind, es kann auch Namensgleichheit vorliegen. Ein ggf. angegebener, vor dem genannten Zeitraum liegender Tauf- bzw. Geburtseintrag zu dieser Person wurde anhand der Angaben im zugehörigen Todeseintrag zugeordnet.</div>
+<table class="Eintrag">
+ <tr><td class="eintr1sp">Eintragskategorie</td><td>Tauf- und Geburtseintrag</td></tr>
+ <tr><td>Taufe</td><td>21.11.1690 evangelisch in Alpirsbach (Alpirsbach, FDS)</td></tr>
+ <tr><td>Kind(er)</td><td>
+  <div>Maria Barbara</div>
+ </td></tr>
+ <tr><td>Vater</td><td>Georg <span class="Nachname">Riedel</span>, Feldtrompeter, Obristwachtmeister Schenhen Kompanie</td></tr>
+ <tr><td>Mutter</td><td>Anna</td></tr>
+ <tr><td>Paten und Taufzeugen</td><td>
+  <div>Johann Christoph <span class="Nachname">Hegel</span>, Pfarrer in Alpirsbach (Alpirsbach, FDS)</div>
+  <div>Karle <span class="Nachname">Weisser</span>, Kammerdiener bei Obristwachtmeister Schenhen</div>
+  <div>Katharina Barbara, Ehefrau von Heinrich Wilhelm <span class="Nachname">Bardili</span>, Amtschreiber in Alpirsbach (Alpirsbach, FDS)</div>
+ </td></tr>
+ <tr><td>Quelle</td><td>KB Alpirsbach [S], Ta 1663-1731, Bl. 45v</td></tr>
+ <tr><td>Permalink</td><td><a href="http://www.archion.de/p/5080e6304c/" target="blank">http://www.archion.de/p/5080e6304c/</a></td></tr>
+ <tr><td>Eintrag-ID</td><td>ta00000001</td></tr>
+ <tr><td>Erfassungsdatum</td><td>11.09.2020</td></tr>
+ <tr><td>Änderungsdatum</td><td>24.09.2020</td></tr>
+</table>
+<div class="zitier">Zitiervorschlag:&nbsp;&nbsp;&nbsp;www.uwe-heizmann.de/militaer/ma0000046.html (Stand: 25.09.2020, Aufruf: <span id="aktDat"></span>)</div>
+<div class="ende"><a href="#top">nach oben</a> | <a href="../militaer_persindex.html#ma0000046">zum Eintrag im Personenindex</a> | <a href="../militaer_abkuerz.html">Abkürzungsverzeichnis</a></div>
+</div>
+</div></body></html>
+
+
