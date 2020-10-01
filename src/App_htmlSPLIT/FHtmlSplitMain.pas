@@ -78,30 +78,32 @@ var
     inc( iCounter );
     strOutFile := Format( '%.8d.html', [iCounter] );
     strOutFile := TPath.Combine( strBaseDir, strOutFile );
-    AssignFile( txtOut, strOutFile );
-    Rewrite( txtOut );
+    AssignFile( txtOut, strOutFile );      /// associate output file object
+    Rewrite( txtOut );                     /// create that output file (for writing)
   end;
 
 begin
   lblStatus.Caption := strFileName;
   strBaseDir := ExtractFilePath( strFileName );
+
   iCounter := 0;
-  prepareNextOutFile;
-  AssignFile( txtIn, strFileName );
-  reset( txtIn );
-  while not Eof( txtIn ) do
+  prepareNextOutFile;                      /// initially create the first output file
+
+  AssignFile( txtIn, strFileName );        /// associate input file object
+  reset( txtIn );                          /// open input file (for reading)
+  while not Eof( txtIn ) do                /// end of file not yet reached ?
   begin
-    Readln( txtIn, strCurrentLine );
-    if( Trim( strCurrentLine ) = '' ) then
+    Readln( txtIn, strCurrentLine );       /// pick the next line from input file
+    if( Trim( strCurrentLine ) = '' ) then /// is it an empty line ?
     begin
-      CloseFile( txtOut );
-      prepareNextOutFile;
+      CloseFile( txtOut );                 /// close the current output file
+      prepareNextOutFile;                  /// incfrement index and prepare the output file
     end
     else
-      Writeln( txtOut, strCurrentLine );
+      Writeln( txtOut, strCurrentLine );   /// write the current line to the current output file
   end;
-  CloseFile( txtIn );
-  CloseFile( txtOut );
+  CloseFile( txtIn );                      /// close the input file
+  CloseFile( txtOut );                     /// close the last used output file
 end;
 
 end.
