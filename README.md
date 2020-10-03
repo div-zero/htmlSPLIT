@@ -3,3 +3,8 @@ Allows the user to split html files which are stored as one long string of text 
 All that is necessary is to drag and drop the text file. Immediately the program separates the text into respective html segments and stores them back into the original file, where it is ready for use. So it is mandatory, that the file is rewritable. 
 That's all. 
 
+find us in the cyberspace: [intelli-bit.de](http://www.intelli-bit.de)
+
+ 
+
+![](https://www.intelli-bit.de/~lib/img/htmlsplit_01.png)
